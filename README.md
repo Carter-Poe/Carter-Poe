@@ -1,4 +1,4 @@
-### Hi there 👋
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!--
 **Carter-Poe/Carter-Poe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carter-poe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/carter-poe?trk=profile-badge">Carter Poe</a></div>
+              
 
 <p align="center"> 
   Visitor count<br>
