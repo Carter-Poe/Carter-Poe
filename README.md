@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carter-poe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/carter-poe?trk=profile-badge">Carter Poe</a></div>
-              
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Carter%20Poe/Software%20Developer/Freelance/Certification/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQHNswMOUU4fAA%2Fprofile-displayphoto-shrink_200_200%2F0%2F1651970352250%3Fe%3D1657756800%26v%3Dbeta%26t%3DRvJJWW3O6OJjXS4vIPRYxEXUMgizmdyEXyL1b-xU2gI)](https://www.linkedin.com/in/carter-poe/)
+
 
 <p align="center"> 
   Visitor count<br>
